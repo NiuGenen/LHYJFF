@@ -44,6 +44,56 @@ Bailey,D.H. E.Barszcz J.T.Barton D.S.Browning R.L.Carter L.Dagum R.A.Fatoohi P.O
 Bakoglu,H.B. G.F.Grohoski L.E.Tharcher J.A.Kaeli C.R.Moore D.P.Tattle W.E.Male W.R.Hardell D.A.Hicks M.Nguyen Phu R.K.Montoye W.T.Glover S.Dhawan ; IBM secong-generation RISC processor organization ; 1989 ; IEEE Int'l Conf on Computer Design
 Balakrishnan,H. V.N.Padmanabhan S.Seshan R.H.Katz ; A comparison of mechanisms for improving TCP performance over wireless links ; IEEE/ACM Trans. on Networking
 Ball,T. J.Larus ; Branch prediction for free ; 1993 ; ACM SIGPLAN'93 conference on Programming Language Design and Implementation
+Banerjee,U. ; Speedup of Ordinary Programs ; 1979 ; Ph.D. thesis. dept. of COmputer Science, University of Illinois at Urbana-Champaign
+Barham,P. B.Dragovic K.Fraser S.Hand T.Harris A.Ho R.Neugebauer ; Xen and the art of virtualization ; 2003 ; 19th ACM Symposium on Operating Systems Principles
+Barroso,L.A. ; Warehouse Scale Computing ; 2010 ; ACM SIGMOD
+Barroso,L.A. U.Holzle ; 2007 ; The case for energy-proportiona computing ; IEEE Computing 
+Barroso,L.A. U.Holzle ; 2009 ; The Datacenter as a Computer: An introduction to rhe Design of Warehouse-Scale Machines ; Morgan & Claypool
+Barroso,L.A. K.Gharachorloo E.Bugnion ; Memory system characterization of commercial workloads ; 1998 ; 25th ISCA
+Barton,R.S. ; A new approach to the functional design of a computer ; 1961 ; Proc Western Joint Computer Conf.
+Bashe,C.J. W.Buchholz G.V.Hawkins J.L.Ingram N.Rochester ; The architecture of IBM's early computers ; 1981 ; IBM J.Research and Development
+Bashe,C.J. L.R.Johnson J.H.Palmer E.W.Pugh ; IBM's Early Computers ; 1986 ; MIT Press, Cambridge,Mass
+Baskett,F. T.W.Keller ; An evaluation of the Cray-1 processor ; 1977 ; High Speed Computer and Algorithm Organization
+Baskett,F. T.Jermoluk D.Solomon ; The 4D-MP graphics superworkstation: Computing + grahpics = 40 MIPS + 40 MFLOPS and 10,000 lighted polygons per second ; 1988 ; IEEE COMPCON
+BNN Laboratories ; Butterfly Parallel Processor Overview ; 1986 ; Trch.Rep.6148, BNN Laboratories,Cambridge,Mass
+Bell,C.G. ; The mini and micro industries ; 1984 ;  IEEE Computer
+Bell,C.G. ; Multis: A new calss of multiprocessor computers ; 1985 ; Science
+Bell,C.G. ; The future of high performance computers in science and engineering ; 1989 ; Communications of the ACM
+Bell,C.G. J.Gray ; Crays, Clusters and Centers ; 2001 ; Tech.Rep. MSR-TR-2001-76 Microsoft Research
+Bell,C.G. J.Gray What's next in high performance computing? ; 2002 ; CACM
+Bell,C.G. W.D.Strecker ; COmputer structures: Whar have we learned from the PDP-11? ; 1976 ; 3rd ISCA
+Bell,C.G. J.C.Mudge J.E.McNamara ; A DEC View of Computer Engineering ; 1978 ; Digital Press
+Bell,C.G. R.Cady H.McFarland B.DeLagi J.O'Laughlin R.Noonan W.Wulf ; A new architecture for mini-computer: The DEC PDP-11 ; AFIPS Spring Joint Computer Conf.
+Benes,V.E. ; Rearrangeable three stage connecting networks ; 1962 ; Bell System Technical Journal
+Bertozzi,D. A.Jalabert S.Murali R.Tamhankar S.Stergiou L.Benini G.De Micheli ; NoC synthesis flow for customized domain specific multiprocessor systems-on-chip ; 2005 ; IEEE Trans. on Parallel and Distributed Systems
+Bhandarkar,D.P ; Alpha Architecture and Implementations ; 1995 ; Digital Press
+Bhandarkar,D.P D.W.Clark ; Performance from architecture: Comparing a RISC and a CISC with similar hardware organizations ; 1991 ; 4th ASPLOS
+Bhandarkar,D.P J.Ding ;  Performance characterization fo the Pentium Pro processor ; 1997 ; 3th HPCA
+Bhuvan,L.N. D.P.Agrawal ; Generalized hypercube and hyperbus structures for a computer network ; 1984 ; IEEE Trans. on Computers
+Bienia,C S.Kumar P.S.Jaswinder K.Li ; The Parsec Benchmark Suite: Characterization and Architectural Implications ; 2008 ; Tech.Rep. Princeton University
+Bird,S. A.Phansalkar L.K.John A.Mericas R.Indukuru ; Characterization of performance of SPEC CPU benchmarks on Intel's Core Microarchitecture based processor ; 2007 ; 2007 SPEC Benchmark Workshop
+Birman,M. A.Samuels G.Chu R.Chuk L.Hu J.McLeod J.Barnes ; Developing the WRL3170/3171 SPARC floating-point coprocessors ; 1990 ; IEEE Micro
+Blackbure,M. R.Garner C.Hoffman A.M.Khan K.S.McKinley R.Bentzur A.Diwan D.Feinberg D.Frampton S.Z.Guyer M.Hirzel A.Hosking M.Jump H.Lee J.E.B.Moss A.Phansalkar D.Stefanovic T.VanDrunen D.vonDincklage B.Wirdermann ; The Dacapo Benchmarks: Java benchmarking development and analysis ; 2006 ; ACM SIGPLAN Conference on Object-Oriented Programming, Systems,Language,and Applications
+Blaum,M. J.Bruck A.Vardy ; MDS array codes with independent parity symbols ; 1996 ; IEEE Trans. onInformation Theory
+Blaum,M. J.Brady J.Bruck J.Menon ; EVENODD:An optimal scheme for tolerating double disk failures in RAID architectures ; 1994 ; 21th ISCA
+Blaum,M. J.brady J.Bruck J.Menon ; EVENODD:An optimal scheme for tolerating double disk failures in RAID architectures ; 1995 ; IEEE Trans. on Computers
+Blaum,M. J.brady J.Bruck J.Menon A.Vardy ; The EVENODD code and its generalization ; 2001 ; High Performance Mass Storage and Parallel I/O: Technologies and Applications
+Bloch,E. ; The engineering design of the stretch computer ; 1959 ; 1959 Proceedings of the Eastern Joint Computer Conf.
+Boddie,J.R. ; History of DSPs ; 2000 ; www.lucent.com/micro/dsp/dsphist.html
+Bolt,K.M. ; Amazon sees sales rise, profit fall ; 1005 ; Seattle Post-Intelligencer
+Boardawekar,R. U.Bondhugula R.Rao ; Believe It or Not: Multi-core CPUs can Match GPU Performance for a FLOP-Intensive Application! ; 2010 ; 19th PACT
+Borg,A. R.E.Kessler D.W.Wall ; Generation and analysis of very long address traces ; 1990 ; 19th ISCA
+Bouknight,W.J. S.A.Deneberg D.E.McIntyre J.M.Randall A.H.Sameh D.L.Slotnick ; The Illiac IV system ; 1972 ; Computer Structures: Principles and Examples
+Bargy,J.T. ; A theory of productivity in the creative process ; 1986 ; IEEE CG&A
+Brain,M. ; Inside a Digital Cell Phone ; 2000 ; howstuffworks.com/insidecellphone.htm
+Brandt,M. J.Brooks M.Cahir T.Hewitt E.Lopez=Pineda D.Sandness ; The Benchmarker's Guid for Cray SV1 Systems ; 2000 ; Cray Inc,Seattle,Wash
+Brent,R.O. and H.T.Kung ; A regular layout for parallel adders ; 1982 ; IEEE Trans. on Computers
+Brewer,E.A. B.C.Kuszmaul ; Hot to get good performance from the CM-5 data network ; 1994 ; Parallel Processing Symposium
+Brin,S. and L.Page ; The anatomy of a large-scale hypertextual Web search engin ; 1998 ; 7th WWW Conf.
+Brown,A. D.A.Patterson ; Towards maintainability, availavility, and growth benchmarks: A case study of software RAID systems ; 2000 ; 2000 USENIX Ammial Technical Conf.
+Bucher,I.V. A.H.Hayes ; I/O performance measurement on Cray-1 and CDC 7000 computers ; 1980 ; Computer Performance Evaluation Users Group 16th
+Bucher,I.Y ; The computational speed of supercomputers ; 1983 ; SIGMETRICS
+Bucholtz,W. ; Planning a Computer System: Project Stretch ; 1962 ; McGraw-Hill,New York
 
 
 
