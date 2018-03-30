@@ -1,0 +1,57 @@
+
+paper name ; author ; year ; source
+
+Adve,S.V. K.Gharachorloo ; Shared Memory Consistency Models ; 1996 ; IEEE computer
+Adve,S.V. M.D.Hill ; Weak ordering - a new definition ; 1990 ; 17th ISCA
+Agarwal,A. ; Analysis of Cache Performance for Operating Systems and Multiprogramming ; 1987 ; PH.D. Stanford University
+Agarwal.A. ; Limits on interconnection network performance ; 1991 ; IEEE Trans. on Parallel and Distributed Systems
+
+Agarwal,A. ; Column-associative caches: A technique for reducing the miss rate of direct-mapped caches ; 1993 ; 20th ISCA
+Agarwal,A. R.Bianchini D.Chaiken K.Johnson D.Kranz ; The MIT Alewife machine: Architecture and performance ; 1995 ; ISCA
+Agarwal,A. J.L.Hennessy R.Simoni M.A.Horowitz ; An evaluation of directory schemes for cache coherence ; 1988 ; 15th ISCA
+Agarwal,A. J.Kubiatowicz D.Kranz B.H.Lim D.Yeung G.D'Souza M.Parkin ; Sparcle: An evolutionary processor design for large-scale multiprocessors ; 1993 ; IEEE MICRO 13
+Agerwala,T. J.Cocke ; High Performance Reduced Instruction Set Processors ; 1987 ; IBM Tech. Rep.RC12434
+Akeley,K. T.Jernolik ; High-Performabnce Polygon Rendering ; 1988 ; 15th Annual Conf. on Computer Grahpics and Interactive Techniques (SIGGRAPH)
+Alexander,W.G. D.B.Wortman ; Static and dynamic characteristics of XPL programs ; 1975 ; IEEE Computer
+Alles,A. ; ATM Internetworking ; 1995 ; White Paper www.cisco.com
+Alliant ; Alliant FX/Series: Product Summary, Alliant Computer Systems Corp ; 1987
+Almasi,G.S. A.Gottlieb ; Highly Parallel Computing ; 1989 ; 
+Alverson,G. R.Alverson D.Callahan B.Koblenz A.Porterfield B.Smith ; Exploiting heterogeneous parallelism on a multithreaded multiprocessor ; ACM/IEEE Conf. on Supercomputing; 1992
+Amdahl,G.M. ; Validity of the single processor approach to achieving large scale compuring capabilities ; 1967 ; AFIPS Spring Joint Computer Conf. 
+Amdahl,G.M. G.A.Blaauw F.P.Brooks ; Architecture of IBM System 360 ; 1964 ; IBM J.Research and Development
+Amza,C. A.K.Cox S.Dwarkadas P.Keleher H.Lu R.Rajamony W.Yu W.Zwaenepoel ; Treadmarks: Shared memory computing on networks of workstations ; 1996 ; IEEE Computer
+Anderson,D. ; You don't konw jack about disks ; 2003 ; Queue
+Anderson,D. J.Dykes E.Riedel ; SCSI vs ATA - More than an interface ; 2003 ; 2nd FAST
+Anderson,D. F.J.Sparacio R.M.Tomasulo ; The IBM 360 Model 91: Processor philosophy and instruction handling ; 1967 ; IBM J.Research and Development
+Anderson,M.H. ; Strength (and safety) in numbers (RAID, disk storage technology) ; 1990 ; Byte
+Anderson,T.E. D.E.Culler D.Patterson ; A case for NOW (networks of workstations) ; 1995 ; IEEE MICRO
+Ang,B. D.Chiou D.Rosenband M.Ehrlich L.Rudolph Arvind ; StarTVoyager: A flexible platform for exploring scalable SMP issues ; 1998 ; ACM/IEEE Conf. on Supercomputing
+Anjan,K.V. T.M.Pinkston ; An efficient, fully-adaptive deadlock recovery scheme: Disha ; 1995 ; 20th ISCA
+Anon.et ; A Measure of Transaction Processing Power ; 1985 ; Datamation
+Apache Hadoop ; 2011 ;
+Archibald,J. J.-L.Baer ; Cache conherence protrocols: Evaluation using a multiprocessor simulation model ; 1986 ; ACM Trans on Computer Systems
+Armbrust,M. A.Fox R.Griffith A.D.Joseph R.Katz A.Konwinski G.Lee D.Patterson A.Rabkin J.Stoica M.zaharia ; Above the Clouds: A Berkeley View of Cloud Computing ; 2009 ; Tech.Rep University of California, Berkeley www.eecs.berkeley.edu/Pubs/TechRpts/2009/EECE-2009-28.html
+Arpaci,R.H. D.E.Culler A.Krishnamurthy S.G.Strinberg K.Yelick ; Empirical evaluation of the CRAY-T3D: A complier perspective ; 1995 ; 22nd ISCA
+Asanovic,K. ; Vector Microprocessors ; 1998 ; Ph.D. thesis, Computer Science Division, University of California Berkeley
+Associated Press ; Gap Inc, shuts down two Internet sotres for major overhaul ; 2005 ; USATODAY.com
+Atanasoff,J.V. ; Computing Machine for the Solution fo Large Systems of Linear Equations ; 1940 ; Internal Report, Iowa State University, Ames
+Atkins,M. ; Performance and the i860 Microprocessor ; 1991 ; IEEE MICRO
+Austin,T.M. G.Sohi ; Dynamic dependency analysis of ordinary programs ; 1992 ; 19th ISCA
+
+Babbay,F. A.Mendelson ; Using value prediction to increase the power of speculative execution hardware ; 1998 ; ACM Trans. on Computer Systems
+Bacr,J.-L. W.-H.Wang ; On the inclusion property for multi-level cache hierarchies ; 1988 ; 15th ISCA
+Bailey,D.H. E.Barszcz J.T.Barton D.S.Browning R.L.Carter L.Dagum R.A.Fatoohi P.O.Frederickson T.A.Lasinski R.S.Schreiber H.D.Simon V.Venkatakrishnan S.K.Weeratunga ; The NAS parallel benchmarks ; 1991 ; Int'l J.Supercomputing Applications
+Bakoglu,H.B. G.F.Grohoski L.E.Tharcher J.A.Kaeli C.R.Moore D.P.Tattle W.E.Male W.R.Hardell D.A.Hicks M.Nguyen Phu R.K.Montoye W.T.Glover S.Dhawan ; IBM secong-generation RISC processor organization ; 1989 ; IEEE Int'l Conf on Computer Design
+Balakrishnan,H. V.N.Padmanabhan S.Seshan R.H.Katz ; A comparison of mechanisms for improving TCP performance over wireless links ; IEEE/ACM Trans. on Networking
+Ball,T. J.Larus ; Branch prediction for free ; 1993 ; ACM SIGPLAN'93 conference on Programming Language Design and Implementation
+
+
+
+
+
+
+
+
+
+
+
