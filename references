@@ -1,11 +1,12 @@
 
 paper name ; author ; year ; source
-
+# A
+# page 518
 Adve,S.V. K.Gharachorloo ; Shared Memory Consistency Models ; 1996 ; IEEE computer
 Adve,S.V. M.D.Hill ; Weak ordering - a new definition ; 1990 ; 17th ISCA
 Agarwal,A. ; Analysis of Cache Performance for Operating Systems and Multiprogramming ; 1987 ; PH.D. Stanford University
 Agarwal.A. ; Limits on interconnection network performance ; 1991 ; IEEE Trans. on Parallel and Distributed Systems
-
+# current 
 Agarwal,A. ; Column-associative caches: A technique for reducing the miss rate of direct-mapped caches ; 1993 ; 20th ISCA
 Agarwal,A. R.Bianchini D.Chaiken K.Johnson D.Kranz ; The MIT Alewife machine: Architecture and performance ; 1995 ; ISCA
 Agarwal,A. J.L.Hennessy R.Simoni M.A.Horowitz ; An evaluation of directory schemes for cache coherence ; 1988 ; 15th ISCA
@@ -18,6 +19,7 @@ Alliant ; Alliant FX/Series: Product Summary, Alliant Computer Systems Corp ; 19
 Almasi,G.S. A.Gottlieb ; Highly Parallel Computing ; 1989 ; 
 Alverson,G. R.Alverson D.Callahan B.Koblenz A.Porterfield B.Smith ; Exploiting heterogeneous parallelism on a multithreaded multiprocessor ; ACM/IEEE Conf. on Supercomputing; 1992
 Amdahl,G.M. ; Validity of the single processor approach to achieving large scale compuring capabilities ; 1967 ; AFIPS Spring Joint Computer Conf. 
+# page 519
 Amdahl,G.M. G.A.Blaauw F.P.Brooks ; Architecture of IBM System 360 ; 1964 ; IBM J.Research and Development
 Amza,C. A.K.Cox S.Dwarkadas P.Keleher H.Lu R.Rajamony W.Yu W.Zwaenepoel ; Treadmarks: Shared memory computing on networks of workstations ; 1996 ; IEEE Computer
 Anderson,D. ; You don't konw jack about disks ; 2003 ; Queue
@@ -37,13 +39,14 @@ Associated Press ; Gap Inc, shuts down two Internet sotres for major overhaul ; 
 Atanasoff,J.V. ; Computing Machine for the Solution fo Large Systems of Linear Equations ; 1940 ; Internal Report, Iowa State University, Ames
 Atkins,M. ; Performance and the i860 Microprocessor ; 1991 ; IEEE MICRO
 Austin,T.M. G.Sohi ; Dynamic dependency analysis of ordinary programs ; 1992 ; 19th ISCA
-
+# B
 Babbay,F. A.Mendelson ; Using value prediction to increase the power of speculative execution hardware ; 1998 ; ACM Trans. on Computer Systems
 Bacr,J.-L. W.-H.Wang ; On the inclusion property for multi-level cache hierarchies ; 1988 ; 15th ISCA
 Bailey,D.H. E.Barszcz J.T.Barton D.S.Browning R.L.Carter L.Dagum R.A.Fatoohi P.O.Frederickson T.A.Lasinski R.S.Schreiber H.D.Simon V.Venkatakrishnan S.K.Weeratunga ; The NAS parallel benchmarks ; 1991 ; Int'l J.Supercomputing Applications
 Bakoglu,H.B. G.F.Grohoski L.E.Tharcher J.A.Kaeli C.R.Moore D.P.Tattle W.E.Male W.R.Hardell D.A.Hicks M.Nguyen Phu R.K.Montoye W.T.Glover S.Dhawan ; IBM secong-generation RISC processor organization ; 1989 ; IEEE Int'l Conf on Computer Design
 Balakrishnan,H. V.N.Padmanabhan S.Seshan R.H.Katz ; A comparison of mechanisms for improving TCP performance over wireless links ; IEEE/ACM Trans. on Networking
 Ball,T. J.Larus ; Branch prediction for free ; 1993 ; ACM SIGPLAN'93 conference on Programming Language Design and Implementation
+# page 520
 Banerjee,U. ; Speedup of Ordinary Programs ; 1979 ; Ph.D. thesis. dept. of COmputer Science, University of Illinois at Urbana-Champaign
 Barham,P. B.Dragovic K.Fraser S.Hand T.Harris A.Ho R.Neugebauer ; Xen and the art of virtualization ; 2003 ; 19th ACM Symposium on Operating Systems Principles
 Barroso,L.A. ; Warehouse Scale Computing ; 2010 ; ACM SIGMOD
@@ -71,6 +74,7 @@ Bhandarkar,D.P D.W.Clark ; Performance from architecture: Comparing a RISC and a
 Bhandarkar,D.P J.Ding ;  Performance characterization fo the Pentium Pro processor ; 1997 ; 3th HPCA
 Bhuvan,L.N. D.P.Agrawal ; Generalized hypercube and hyperbus structures for a computer network ; 1984 ; IEEE Trans. on Computers
 Bienia,C S.Kumar P.S.Jaswinder K.Li ; The Parsec Benchmark Suite: Characterization and Architectural Implications ; 2008 ; Tech.Rep. Princeton University
+# page 521
 Bird,S. A.Phansalkar L.K.John A.Mericas R.Indukuru ; Characterization of performance of SPEC CPU benchmarks on Intel's Core Microarchitecture based processor ; 2007 ; 2007 SPEC Benchmark Workshop
 Birman,M. A.Samuels G.Chu R.Chuk L.Hu J.McLeod J.Barnes ; Developing the WRL3170/3171 SPARC floating-point coprocessors ; 1990 ; IEEE Micro
 Blackbure,M. R.Garner C.Hoffman A.M.Khan K.S.McKinley R.Bentzur A.Diwan D.Feinberg D.Frampton S.Z.Guyer M.Hirzel A.Hosking M.Jump H.Lee J.E.B.Moss A.Phansalkar D.Stefanovic T.VanDrunen D.vonDincklage B.Wirdermann ; The Dacapo Benchmarks: Java benchmarking development and analysis ; 2006 ; ACM SIGPLAN Conference on Object-Oriented Programming, Systems,Language,and Applications
@@ -94,6 +98,14 @@ Brown,A. D.A.Patterson ; Towards maintainability, availavility, and growth bench
 Bucher,I.V. A.H.Hayes ; I/O performance measurement on Cray-1 and CDC 7000 computers ; 1980 ; Computer Performance Evaluation Users Group 16th
 Bucher,I.Y ; The computational speed of supercomputers ; 1983 ; SIGMETRICS
 Bucholtz,W. ; Planning a Computer System: Project Stretch ; 1962 ; McGraw-Hill,New York
+# page 522
+Bugress,N. R.Williams ; Choices of operand truncation in the SRT division algorithm ; 1995 ; IEEE Trans. on Computer
+Burkhardt III,H. S.Frank B.Knobe J.Rothnie ; Overview of the KSRI Computer System ; 1992 ; Tech.Rep.KST-TR-9202001
+Burks,A.W. H.H.Foldstine J.von Neumann ; Preliminaty discussion of the logical design of an electronic computing instrument ; 1946 ; Papers of John von Neumann
+# C
+Calder,B. G.Reinman D.M.Tullsen ; Selective value prediction ; 1999 ; 26th ISCA
+Calder,B. G.Grunwald M.Jones D.Lindsay J.Martin M.Mozer B.Zorn ; Evidence-based static branch prediction using machine learning ; 1997 ; ACM Trans. Program.Lang.Syst
+
 
 
 
