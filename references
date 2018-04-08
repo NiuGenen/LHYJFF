@@ -105,6 +105,24 @@ Burks,A.W. H.H.Foldstine J.von Neumann ; Preliminaty discussion of the logical d
 # C
 Calder,B. G.Reinman D.M.Tullsen ; Selective value prediction ; 1999 ; 26th ISCA
 Calder,B. G.Grunwald M.Jones D.Lindsay J.Martin M.Mozer B.Zorn ; Evidence-based static branch prediction using machine learning ; 1997 ; ACM Trans. Program.Lang.Syst
+Callahan,D. J.Dongarra D.Levine ; Vectorizing compilers: A test suite and results ; 1988 ; ACM/IEEE Conf. on supercomputing
+Cantin,J.F. M.D.Hill ; Cache Performance for Selected SPEC CPU2000 Benchmarks ; 2001 ; www.jfred.org/cache-data.html
+Cantin,J.F. M.D.Hill ; Cache Performance for SPEC CPU2000 Benchmarkc, Version 3.0. ; 2003 ; www.cs.wisc.edu/multifacet/misc/spec2000cache-data/index.html
+Carles,S. ; Amazon reports record Xmas season, top gane picks ; 2005 ; Gamasutra
+Carter,J. K.Rajamani ; Designing energy-efficient servers and data centers ; 2010 ; IEEE Computer
+Case,R.P. A.Padegs ; The architecture of the IBM System/370 ; 1978 ; Communication of the ACM | Computer Structures: Principles and Examples
+Censier,L. P.Feautrier ; A new solution to  coherence problems in multicache systems ; 1978 ; IEEE Trans. on Computers
+Chandra,R S.Devine B.Verghese A.Gupra M.Rosenblum ; Scheduling and page migration for multiprocessor compute servers ; 1994 ; 6th ASPLOS
+Chang,F. J.Dean S.Ghemawat W.C.Hsieh D.A.Wallach M.Burrows T.Chandra A.Fikes R.E.Gruber ; Bigtable: A distributed storage system for structured data ; 2006 ; 7th OSDI
+Chang,J. J.Meza P.Ranganathan C.Bash A.Shah ; Green server design: Beyond operational energy to sustainability ; 1020 ; HotPower
+Chang,P. S.A.Mahlke W.Y.Chen N.J.Warter W.W.Hwu ; IMPACT: An architectural framework for multiple-instruction-issue processors ; 18th ISCA
+Charlesworth A.E. ; An approach to scientific array processing: The architecture design of the AP-120B/FPS-164 family ; 1981 ; Computer
+Charlesworth A. ; Starfire: Extending the SMP envelope ; 1998 ; IEEE Micro
+Chen,P.M. E.K.Lee ; Striping in a RAID level 5 disk array ; 1995 ; ACM SIGMETRICS Conf. on Measurement and Modeling of Computer Systems
+Chen,P.M. G.A.Gibson R.H.Katz D.A.Patterson ; An evaluation fo redundant arrays of inexpensive disks using an Amdahl 5890 ; 1990 ; ACM SIGMETRICS Conf. on Measurement and Modeling of Computer Systems
+Chen,P.M.E.K.Lee G.A.Gibson R.H.Katz D.A.Patterson ; RAID: High-performance, reliable secondary storage ; 1994 ; ACM Computing Surveys
+Chen,S. ; Large-scale and high-speed multiprocessor system for scientific applications ; 1983 ; Proc.NATO Advanced Research Workshop on High-Speed Computing
+# page 523
 
 
 
