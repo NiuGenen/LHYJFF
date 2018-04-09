@@ -123,7 +123,39 @@ Chen,P.M. G.A.Gibson R.H.Katz D.A.Patterson ; An evaluation fo redundant arrays 
 Chen,P.M.E.K.Lee G.A.Gibson R.H.Katz D.A.Patterson ; RAID: High-performance, reliable secondary storage ; 1994 ; ACM Computing Surveys
 Chen,S. ; Large-scale and high-speed multiprocessor system for scientific applications ; 1983 ; Proc.NATO Advanced Research Workshop on High-Speed Computing
 # page 523
-
+Chen,T.C. ; Overlap and parallel processing ; 1980 ; Introduction to Computer Architecture
+Chow,F.C. ; A Protable Machine-Independent Global Optimizer-Design and Mesurements ; 1983 ; Ph.D. Stranford University
+Chrysos,G.Z. J.S.Emer ; Memory dependence prediction using srote sets ; 1998 ; 25th ISCA
+Clark,B. T.Deshane E.Dow S.Evanchik M.Finlayson J.Herne J.Neefe Matthews ; Xen and the art of repeated research ; 2004 ; USENIX Annual Rechnical Conf.
+Clark,D.W. ; Cache performance of the VAX-11/780 ; 1983 ; ACM Trans. on Computer Systems 
+Clark,D.W. ; Pipelining and performance in the VAX 8800 processor ; 1987 ; 2th ASPLOS
+Clark,D.W. J.S.Emer ; Performance of the VAX-11/780 translation buffer: Simulation and measurement ; ACM Trans. on Computer System
+Clark,D.W. H.Levy ; Measurement and analysis of instruction set use in the VAX-11/780 ; 1982 ; 9th ISCA
+Clark,D. W.D.Strecker ; Comments on the case for the reduced insrtuction set computer ; 1980 ; Computer Architecture
+Clark.W.A. ; The Lincoln TX-2 computer development ; 1957 ; Western Joint Computer Conference
+Clidaras,J C.Johnson B.Felderman ; Private communication ; 2010
+Climate Svaers Computing Initiative ; Efficiency Spece ; 2007 ; www.climatesacerscomputing.org
+Clos,C. ; A study of non-blocking switching networks ; 1953 ; Bell Systems Technical Journal
+Cody.W.J. J.T.Coonen D.M.Gay K.Hanson D.Hough W.Kahan R.Karpinski J.Palmer F.N.Ris D.Stevenson ; A proposed redix-and wordlengthindependent standard for floating-point arithmetic ; 1984 ; IEEE Micro
+Colwell,R.P. R.Steck ; A 0.6 um BiCMOS processor with dynamic execution ; 1995 ; ISSCC
+Colwell,R.P. R.P.Nix J.J.O'Donnel D.B.Papworth P.K.Rodman ; A VLIW architecture for a trace scheduling compiler ; 1987 ; 2th ASPLOS
+Comer,D. ; Internetworking with TCP/IP 2nd ; 1993 ; Prentice Hall, Englewood Cliffs,N.J.
+Compaq Computer Corporation ; Compiler Writer's Guide for the Alpha 21264 ; 1999 ; www.support.compaq.com
+Conti<C. D.H.Gibson S.H.Pitkowsky ; Structural aspects of the System/360 Model 85. Part I. General organization ; 1968 ; IBM Systems
+Coonen,J. ; Contributions to a Proposed Standard for Binary Floating-Point Arithmetic ; 1984 ; Ph.D. University of Califomia
+Corbett.P. B.English A.Goel T.Grcanac S.Kleiman J.Leong S.Sankar ; Row-diagonal parity for double disk failure correction ; 2004 ; 3th FAST
+Crawford,J. P.Gelsinger ; Programming the 80386 ; 1988 ; Sybex Books, Alsmeda,Calif
+Culler,D.E. J.P.Singh A.Gupta ; Parallel Computer Architecture: A Hardware/Software Approach ; 1999 ; Morgan Kaufmann
+Curnow,H.J. B.A.Wichmann ; A synthetic benchmark ; 1976 ; The Computer
+Cvetanovic,Z. R.E.Kessler ; Performance analysis of the Alpha 21264-based Compaq ES40 system ; 2000 ; 27th ISCA
+# D
+Dally,W.J. ; Performance analysis of k-ary n-cube interconnection networks ; 1990 ; IEEE Trans. on Computers
+Dally,W.J. ; Virtual channel flow control ; 1992 ; IEEE Trans. on Parallel and Distributed Systems
+Dally,W.J. ; Interconnect limited VLSI architecture ; 1999 ; Proc. of the International Interconnect Technology Conference
+# page 524
+Dally,W.J. C.I.Seitz ; The torus routing chip ; 1986 ; Dirtributed Computrting
+Dally,W.J. B.Towles ; Route packets, not wires: On-chip interconnection networks ; 2001 ; 38th Design Automation Conference
+Dally,W.J. B.Towles ; Priciples and Practices of Interconnection Networks ; 2003 ; Morgan Kaufmann
 
 
 
