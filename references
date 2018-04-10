@@ -156,7 +156,19 @@ Dally,W.J. ; Interconnect limited VLSI architecture ; 1999 ; Proc. of the Intern
 Dally,W.J. C.I.Seitz ; The torus routing chip ; 1986 ; Dirtributed Computrting
 Dally,W.J. B.Towles ; Route packets, not wires: On-chip interconnection networks ; 2001 ; 38th Design Automation Conference
 Dally,W.J. B.Towles ; Priciples and Practices of Interconnection Networks ; 2003 ; Morgan Kaufmann
-
+Darcy,J.D. D.Gay ; FLECKmarks: Measuring floating point performance using a full IEEE compliant arithmetic benchmark ; 1996 ; CS 252 class project
+Darley,H.M. ; Floating Point/Integer Processor with Divide and Square Root Functions ; 1989 ; U.S.Patent
+Davidson,E.S. ; The design and control of pipelined function generators ; 1971 ; IEEE Conf. on Systems,Networks,and Computers
+Davidson,E.S. A.T.Thomas L.E.Shar J.H.Patel ; Effective control for pipelined processors ; 1975 ; Proc. IEEE COMPCON
+# something wrong with references
+# page 525
+Duato,J. T.M.Pinkston ; A general theory for deadlock-free adaptive routing using a mixed set og resources ; 2001 ; IEEE Trans. on Parallel and Distributed Systems
+Duato,J. S.Ylamanchili L.Ni ; Interconnection Networks: An Engineering Approach, 2nd ; Morgan Kaufmann
+Duato,J. I.Johnson J.Flich F.Naven P.Garcia T.Nachiondo ; A new scalable and cost-effective congestion management strategy for lossless multistage interconnection networks ; 2005 ; 11th HPCA
+Duato,J. O.Lysne R.Pang T.M.Pinkston ; Part I: A theory for deadlockfree dynamic reconfiguration of interconnection networks ; 2005 ; IEEE Trans. on Parallel and Distributed Systmes
+Dubois,M. C.Scheurich and F.Briggs ; Synchronization, coherence, and event ordering ; 1988 ; IEEE Computer
+Dunigan,W. K.Vetter K.White P.Worley ; Performance evaluation of the Cray X1 distributed shared memory architecture ; 2005 ; IEEE Micro
+# E
 
 
 
