@@ -169,6 +169,26 @@ Duato,J. O.Lysne R.Pang T.M.Pinkston ; Part I: A theory for deadlockfree dynamic
 Dubois,M. C.Scheurich and F.Briggs ; Synchronization, coherence, and event ordering ; 1988 ; IEEE Computer
 Dunigan,W. K.Vetter K.White P.Worley ; Performance evaluation of the Cray X1 distributed shared memory architecture ; 2005 ; IEEE Micro
 # E
+Eden,A. T.Mudge ; The YAGS branch prediction scheme ; 1998 ; 32th Annual ACM/IEEE Int'l Symposium on Microarchitecture
+Edmondson,J.H. P.I.Rubindield R.Preston V.Rajagopalan ; Superscalar instruction execution in the 21164 Alpha microprocessor ; 1995 ; IEEE Micro
+Eggers,S. ; Simulation Analysis of Data Sharing in Shared Memory Multiprocessors ; 1989 ; Ph.D. thesis, University of California,Berkeley
+Elder,J. A.Gottlieb C.K.Kruskal K.P.McAuliffe L.Randolph M.Snir P.Teller J.Wilson ; Issues related to MIMD shared-memory computers: The NYU Ultracomputer approach ; 12th ISCA
+Ellis,J.R. ; Bulldog: A Compiler for VLIW Architectures ; 1986 ; MIT press,Cambridge,Mass
+Ellis,J.R. D.W.Clark ; A characterization of processor performance in the VAX-11/780 ; 1984 ; 11th ISCA
+Enriquez,P. ; What happended to my dial tone? A study of FCC service disruption reports ; 2001 ; Richard Tapia Symposium on the Celebration of Diversity in Computering
+Erlichson,A. N.Nuckolls G.Chesson J.L.Hennessy ; SofyFLASH: Analyzing the performance of clustered distributed virtual shared memory ; 1996 ; 7th ASPLOS
+Esmaeilzadeh,H. R.Cao Y.Xi S.M.Blackbum K.S.McKinley ; Looking Bask on the Language and Hardware Revolution: Measured Power, Performance, and Scaling ; 2011 ; 16th ASPLOS
+Evers,M. S.J.Patel R.S.Chappell Y.N.Patt ; An analysis of correlation and predictability: What makes two-level branch predictors work ; 1998 ; 25th ISCA
+# F
+Fabry,R.S. ; Capability based addressing ; 1974 ; Communications of the ACM
+Falsafi,B. D.A>Wood ; Reactive NUMA: A design for unifying S-COMA and CC-NUMA ; 1997 ; 24th ISCA
+Fan,X. W.Weber L.A.Barroso ; Power provisioning for a warehouse-sized computer ; 2007 ; 34th ISCA
+Farkas,K.I. N.P.Jouppi ; Complexity/performance trade-offs with nonblocking loads ; 1994 ; 21 ISCA
+Farkas,K.I. N.P.Jouppi P.Chow ; How useful are non-blocking loads, Stream buffers and speculative execution in multiple issue processoes ; 1995 ; 1th HPCA
+Farkas,K.I. P.Chow N.P.Jouppi Z.Vranesic ; Memory-system design considerations for dynamically-scheduled processors ; 24th ISCA
+Fazio,D. ; It's really much more fun building a supercomputer than it is simply inventing one ; 1987 ; Proc.IEEE COMPCON
+# page 526
+
 
 
 
