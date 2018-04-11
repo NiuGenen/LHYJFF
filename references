@@ -188,7 +188,33 @@ Farkas,K.I. N.P.Jouppi P.Chow ; How useful are non-blocking loads, Stream buffer
 Farkas,K.I. P.Chow N.P.Jouppi Z.Vranesic ; Memory-system design considerations for dynamically-scheduled processors ; 24th ISCA
 Fazio,D. ; It's really much more fun building a supercomputer than it is simply inventing one ; 1987 ; Proc.IEEE COMPCON
 # page 526
-
+Fisher,J.A. ; Trace scheduling: A technique for global microcode compaction ; 1981 ; IEEE Trans. on Computers
+Fisher,J.A. ; Very long instruction word architecture and ELI-512 ; 1983 ; 10th ISCA
+Fisher,J.A. S.M.Freudenberger ; Predicting conditional branches from previous runs of a program ; 1992 ; 5th ASPLOS
+Fisher,J.A. B.R>Rau ; Journal of supercomputing ; 1993 ; January
+Fisher,J.A J.R.Ellis J.C.Ruttenberg A.Nicolau ; Parallel processing:A smart compiler and a dumb processor ; 1984 ; SIGPLAN Conf. on Compiler Construction
+Flemming,P.J. J.J.Wallace ; How to not lie wirh statistics: The correct way to summarize benchmarks results ; COmmunications of the ACM
+Flunn,M.J. ; Very high-speed computing systems ; 1966 ; Proc. IEEE
+Forgie,J.W. ; The Lincoln TX-2 input-output system ; Proc. Western Joint Computer Conference
+Foster,C.C. E.M.Riseman ; Percolation of code to enhance parallel dispatching and execution ; 1972 ;  IEEE Trans. on Computers
+Frank,S.J. ; Tightly coupled multiprocessor systems speed memory access time ; 1984 ; Electronics
+Freiman,C.V. ; Statistical analysis of certain binary division algorithms ; 1961 ; Proc. IRE
+Griesenborg,S.E. R.J.Wicks ; DASD Expectations: The 3380,3380-23,and MVS/XA ; 1985 ; Tech.Bulletin
+Fuller,S.H. W.E.Burr ; Measurement and evaluation of alternative computer architectures ; 1977 ; Computer
+Furber,S.B. ; ARM System Architecture ; 1996 ; www.cs.man.ac.uk/amulet/publications/books/ARMsysArch
+# G
+Gagliardi,U.O. ; Report of worksop - software-related adcances in computer hardware ; 1973 ; Proc.Symposium oh the High Cost of Software 
+Gajski,D. D.Kuck D.Lawrie A.Sameh ; CEDAR--a large scale muptiprocessor ; 1983 ; ICPP
+Fallagher,D.M. W.Y.Chen S.A.Mahlke J.C.Gyllenhaal W.W.Hwu ; Dynamic memory disambiguation using the memory conflict buffer ; 1994 ; 6th ASPLOS
+Galles,M. ; Scalable pipelined interconnect for distrubuted endpoint routing: The SGI SPIDER chip ; 1996 ; Proc. IEEE HoT Interconnects
+Game,M. A.Booker ; CodePack code compression for PowerPC processors ; 1999 ; MicroNews
+Gao,Q.S. ; The chinese remainder theorem and the prime memory system ; 1993 ; 20th ISCA
+Gap ; Gap Inc.Reports Third Quarter Earnings ; 2005 ; gapinc.com
+Gap ; Gap Inc.Reports Fourth Quarter and Full Year Earnings ; gapinc.com
+Farner<R. A.Agarwal F.Briggs E.Broun D.Hough B.Joy S.Kleiman S.Muchnick M.Namjoo D.Patterson J.Pendleton R.Tuck ; Scalable processor architecture(SPARC) ; 1988 ; Proc.IEEE COMPCON
+Gerbis,J. D.Patterson ; Embracing and extending 40th-century instruction set architectures ; IEEE Computer
+Gee.J.D. M.D.Hill D.N.Pnevmatikatos A.J.Smith ; Cache performance of the SPEC92 benchmark suite ; 1993 ; IEEE Micro
+# page 527
 
 
 
