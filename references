@@ -215,7 +215,36 @@ Farner<R. A.Agarwal F.Briggs E.Broun D.Hough B.Joy S.Kleiman S.Muchnick M.Namjoo
 Gerbis,J. D.Patterson ; Embracing and extending 40th-century instruction set architectures ; IEEE Computer
 Gee.J.D. M.D.Hill D.N.Pnevmatikatos A.J.Smith ; Cache performance of the SPEC92 benchmark suite ; 1993 ; IEEE Micro
 # page 527
-
+Gehringer,E.F D.P.Wiewiorek Z.Segall ; Parallel Processing: The Cm* Experience ; 1987 ; Digital Press, Bedford, Mass
+Gharachorloo,K. A.Gupta J.L.Hennessy ; Hiding memory latency using dynamic scheduling in shared-memory multiprocessors ; 1992 ; 19th ISCA
+Gharachorloo,K. D.Lenoski J.Laudon P.Gibbons A.Gupta J.L.Hennessy l Memory consistency and event ordering in scalable shared-memory multiprocessors ; 1990 l 17th ISCA
+Ghemawat,S. H.Gobioff S.-T.Leung ; The Gppgle file system ; 2003 ; 19th ACM Symposium on Operating Systems Principles
+Gibson D.H. ; Considerations in block-oriented systems desgin ; 1967 ; AFIPS Conf. Proc.
+Gibson G.A. ; Redundant Disk Arrays: Reliable, Parallel Secondaty Storage ; 1992 ; ACM Distinguished Dissertation Series 
+Gibson J.C. ; The Gibson mix ; 1970 ; IBM System Development Division
+Gibson J.R.Kunz D.Ofelt M.Horowitz J.Hennessy M.Heinrich ; FLASH vs. simulated FLASH: Closing the simulation loop ; 2000; 9th ASPLOS
+Glass C.J. L.M.Ni ; The Turn Model for adaptive routing ; 1992 ; 19th ISCA
+Goldberg D. ; What every computer scientist should know about floating-point arithmetic ; 1991 ; Computing Surveys
+Goldberg I.B. ; 12 bits ar not enough for 8-digit accuracy ; 1967 ; Communications of the ACM
+Goldstein,S. ; Storage Performance-An Eight Year Outlook ; 1987 ; IBM Santz Teresa Laboratory
+Glodstine H.H. ; The Computer: From Pascal to von Neumann ; 1972 ; Princeton University Press,Princeton,N.J.
+Gonzalez J. A.Gonzalez ; Limits of instruction level parallelism with data speculation ; 1998 ; Vector and ParallelProcessing (VECPAR)
+Goodman,J.R. ; Using cache memory to reduce processor memory traffic ; 1983 ; 10th ISCA
+Goralski,W. ; A Guide to Synchronous Optical Network ; 1997 ; McGraw-Hill,New York
+Gosling,J.B. ; Design of Arithmetic Units for Digital Computers ; 1980 ; Springer-Verlag
+Gray,J. ; A census of Tandem system availability between 1985 and 1990 ; IEEE Trans. on Reliability
+Gray,J. ; The Benchmark Handbook for Database and Transaction Processing Systems, 2nd ed. ; 1993 ; Morgan Kaufmann,San Francisco
+Gray,J. ; Sort benchmark home page ; 2006 ; sortbenchmark.org
+Gray,J. A.Reuter ; Transaction Processing: Concepts and Techniques ; 1993 ; Morgan Kaufmann,San Francisco
+Gray,J. D.P.Siewiorek ; High-abailability computer systems ; 1991 ; Computer
+Gray,J. C.van Ingen ; Empirical Measurements of Disk Failure Rates and Error Rates ; 2005 ; Microsoft Research
+Greenberg,A. N.Jain S.Kandula C.Kim P.Lahiri D.Maltz P.Patel S.Sengupta ; VL2: A Salable and Flexible Data Center Network ; 2009 ; SCM SIGCOMM
+Grice,C. M.Kanellos ; Cell phone industry at crossroads: Go high or low? ; 2000 ; CNET News
+Groe,J.B. L.E.Larson ; CDMA Mobile Radio Design ; 2000 ; Artech House,Boston
+Gunther,K.D. ; Prevention of deadlocks in packet-switched data transport systems ; 1981 ; IEEE Trans. on Communications 
+# H
+Hagersten,E. M.Koster ; WildFire: A scalable path for SMPs ; 1998 ; 5th ISCA
+Hagersten,E. A.Landin S.Haridi ; DDM-a cache-only memory architecture ; IEEE Computer
 
 
 
