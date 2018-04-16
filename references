@@ -245,6 +245,50 @@ Gunther,K.D. ; Prevention of deadlocks in packet-switched data transport systems
 # H
 Hagersten,E. M.Koster ; WildFire: A scalable path for SMPs ; 1998 ; 5th ISCA
 Hagersten,E. A.Landin S.Haridi ; DDM-a cache-only memory architecture ; IEEE Computer
+# page 528
+Hamacher,V.C. Z.G.Vranesic S.G.Zaky ; Computer Organization, 2nd ed ; 1984 ; McGraw-Hill,New York
+Hamilton,J. ; Data center networks are in my way ; 2009 ; paper presented at the Stanford Clean Slate CTO Summit
+Hamilton,J. ; Cloud computing economies of scale ; 2010 ; paper presented at the AWS Workshop on Genomisc and Cloud Computing
+Handy,J. ; The Cache Memory Book ; 1993 ; Academic Press,Boston
+Hauck,E.A. B.A.Dent ; Burroughs B6500/B7500 stack mechanism ; 1968 ; AFIPS Spring Joing Computer Conf.
+Heald,R. K.Aingaran C.Amir M.Ang M.Boland A.Das P.Dixit G.Goulosberry ... ; Impolememtation od thirsgeneration SPARC V9 64-b microprocessor ; 2000 ; ISCCC
+Heinrich,J. ; MIPS R4000 User's Manual ; 1993 ; Prentice Hall,Englewood Cliffs,N.J.
+Henly,M. B.McNutt ; DASD I/O Characteristics:A Comparision of MVS to VM ; 1989 ; IBM General Products Division
+Hennessy,J. ; VLSI processor architecture ; 1984 ; IEEE Trans. on Computers
+Hennessy,J. ; VLSI RISC processors ; 1985 ; VLSI Systems Design
+Hennessy,J. N.Jouppi F.Baskett J.Gill ; MIPS: A VLSI processor architecture ; 1981 ; CMU Conference on VLSI Systems and Computations
+Hewlett-Packard ; PA-RISC 2.0 Architecture Reference Manual, 3rd ed ; 1994 ; Palo Alto,Calif
+Hewlett-Packard ; HP's 5NINESL5MINUTES Vision Extends Leadership and Redefines High Availability in Mission-Critical Environments ; 1998 ; www.future.enterprisecomputing.hp.com
+Hill,M.D. ; Aspects of Cache Memory and Instruction Buffer Performance ; 1987 ; Ph.D.thesis Computer Science Division, University of California,Berkeley
+Hill,M.D. ; A case for direct mapped caches ; 1988 ; Computer
+Hill,M.D. ; Multiprocessors should support simple memory consistency models ; 1998 ; IEEE Computer
+Hillis,W.D. ; The Connection multiprocessor ; 1985 ; MIT Press
+Hillis,W.D. G.L.Steele ; Data parallel algorithms ; 1986 ; Communications of the ACM
+Hinton,G. D.Safer M.Upton D.Boggs D.Carmean A.kyker P.Roussel ; The microarchitecture of the Pentium 4 processor ; 2001 ; Intel Technology Journal
+Hintz,R.G. D.P.Tate ; Control data STAR-100 processor design ; Proc.IEEE COMPCON
+Hirata,H. K.Kimura S.Nagamine Y.Mochizuki A.Nishimura Y.Nakase T.Nishizawa ; An elementary processor architecture with simulatanrous instruction issuing from multiple threads ; 1992 ; 19th ISCA
+Hitachi ; SuperH RISC Engine SH7700 Series Programming Manual ; 1997 ; Hitachi,Santa Clara,Calif
+Ho,R. K.W.Mai M.A.Horowitz ; The future of wires ; 2001 ; Proc.of the IEEE
+Hoagland,A.S. ; Digital Magnetic Recording ; 1963 ; Wiley,New York
+Hockney,R.W. C.R.Jesshope ; Parallel Computers 2:Architectures,Programming and Algorithms ; 1988 ; Adam Hilger, Ltd,Bristol,England
+Holland,J.H. ; A universal computer capable of executing an arbitrary number of subprograms simultaneously ; 1959 ; Proc.East Joint Computer Conf.
+holt,R.C. ; Come dealock properties of the computer systems ; 1972 ; ACM Computer Surveys
+Hopkins,M. ; A critical look at IA-64L Massice resources,massice ILP,but can it deliver? ; 2000 ;Microprocessor Report
+Hord,R.M. ; The Illiac-IV,The First Supercomputer ; 1982 ; Computer Science Press
+Horel,T. G.Lauterbach ; UltraSPARC-III: Designing third-generation 64-bit performanc ; 1999 ; IEEE Micro
+# page 529
+Hospodor,A.D. A.S.Hoagland ; The changing nature of disk conreollers ; 1993 ; Proc.IEEE
+Holale,U. ; Brawny cores still breat wimpy cores,most of the time ; 2010 ; IEEE Micro
+Hristea,C. D.Lenoski J.keen ; Measuring memory hierarchy performance of cache-coherent multiprocessors using micro benchmarks ;1997 ; Proc.ACM/IEEE Conf.on Supercomputing
+Hsu,P. ; Designing the TFP microprocessor ; 1994 ; IEEE Micro
+Huck,J. ; introducint the IA-64 Architecture ; 2000 ; IRRR Micro
+Hughes.C.J. P.Kaul S.V.Adve R.Jain C.Park J.Srinivasan ; Variability in the execution of multimedia applications and implications for architecture ; 2001 ; 18th ISCA
+Hwang,K. ; Computer Arithmetic:Principles,Architecture,and Design ; 1979 ; Wiley,New York
+Hwang,K. ; Advanced Computer Architecture and Parallel Programming ; 1993 ; McGraw-Hill,New York
+Hwu,W.-M Y.Patt ; HPsm, a high performance restricted data flow architecture having minimum functionablity ; 1986 ; 13th ISCA
+Hwu,W.W. S.A.Mahlke W.Y.Chen P.P.Chang N.J.Water R.A.Bringmann R.O.Ouellette R.E.Hank T.Kiyohara G.E.Haab J.G.Holm D.M.Lavery ; The superblock: An effective technique for VLIW and superscalar compilation ; 1993 ; J.Supercomputing
+# I
+IBM. ; The Economic Value of Rapid Response Time ; 1982 ; White Plains,N.Y.
 
 
 
