@@ -288,7 +288,30 @@ Hwang,K. ; Advanced Computer Architecture and Parallel Programming ; 1993 ; McGr
 Hwu,W.-M Y.Patt ; HPsm, a high performance restricted data flow architecture having minimum functionablity ; 1986 ; 13th ISCA
 Hwu,W.W. S.A.Mahlke W.Y.Chen P.P.Chang N.J.Water R.A.Bringmann R.O.Ouellette R.E.Hank T.Kiyohara G.E.Haab J.G.Holm D.M.Lavery ; The superblock: An effective technique for VLIW and superscalar compilation ; 1993 ; J.Supercomputing
 # I
-IBM. ; The Economic Value of Rapid Response Time ; 1982 ; White Plains,N.Y.
+IBM ; The Economic Value of Rapid Response Time ; 1982 ; White Plains,N.Y.
+IBM ; The IBM RISC System/6000 processor ; 1990 ; IBM J.Research and Development 34:1
+IBM ; The PowerPC Architecture ; 1994 ; Morgan Kaufmann, San Francisco
+IBM ; Blue Gene ; 2005 ; IBM J.Research and Development
+IEEE ; IEEE standard for binaty floating-point arithmetic ; 1985 ; SIGPLAN Notices
+IEEE ; Intel virtualization technology, computer ; 2005 ; IEEE Computer Society
+IEEE ; DRAFT Standard for Floating-Point Arithmetic ; 2006 ; dx.doi.org
+Imprimis Product Specification ; Sabre Disk Driver IPI-2 Interface ; xxxx ; Imprimis,Dallas,Tex
+InfiniBand Trade Association ; InfiniBanc Architecture Specifications Release 1.0.a ; 2001 ; www.infinibandta.org
+Intel ; Using MMX Instruction to Convert RGB to YUV Color Conversion ; 2001 ; cedar.intel.com
+Internet Retailer ; The Gap launches a new site-after two weeks of downtime ; 2005 ; www.internetretailer.com
+# J
+Jain,R. ; The Art of Computer Systems Performance Analysis: Techniques for Experimental Design, Measurement, Simulation, and Modeling ; 1991 ; Wiley,New York
+Jantsch,A. H.Tenhunen ; Newworks on Chips ; 2003 ; Kluwer Academic Publishers
+Jimenez,D.A. C.Lin ; Neural methods for dynamic branch prediction ; 2002 ; ACM Trans. on Computer Systems
+Johnson,M. ; Superscalar Microprocessor Design ; 1990 ; Prentice Hall, Englewood Cliffs, N.J.
+Jordan,H.F. ; Performance measurements on HEP-a pipelined MIMD computer ; 1983 ; 10th ISCA
+Jordan,K.E. ; Performance comparison of large-scale scientific processors: Scalar mainframes, mainframes with vector facilities, and supercomputers ; 1987 ; Computer
+Jouppi,N.P. ; Improving direct-mapped cache performance by the addition of a small fully-associative cache and prefetch buffers ; 1990 ; 17th ISCA
+Jouppi,N.P. ; Retrospective: Improving direct-mapped cache performance by the additioon of a small fully-associative cache and prefetch buffers ; 1998 ; 25 Years of the ISCA
+Jouppi,N.P. D.W.Wall ; Available instruction-level parallelism for superscalar and superpipelined processors ; 3th ASPLOS
+Jouppi,N.P. S.J.E.Wilton ; Trade-offs in two-level on-chip cacheing ; 1994 ; 21th ISCA
+# K
+Kaeli,D.R. P.G.Emma ; Branch history table prefiction of moving target branches dut to subroutine returns ; 18th ISCA
 
 
 
