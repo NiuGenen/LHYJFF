@@ -311,10 +311,46 @@ Jouppi,N.P. ; Retrospective: Improving direct-mapped cache performance by the ad
 Jouppi,N.P. D.W.Wall ; Available instruction-level parallelism for superscalar and superpipelined processors ; 3th ASPLOS
 Jouppi,N.P. S.J.E.Wilton ; Trade-offs in two-level on-chip cacheing ; 1994 ; 21th ISCA
 # K
-Kaeli,D.R. P.G.Emma ; Branch history table prefiction of moving target branches dut to subroutine returns ; 18th ISCA
-
-
-
+Kaeli,D.R. P.G.Emma ; Branch history table prefiction of moving target branches dut to subroutine returns ; 1990 ; 18th ISCA
+Kahan,J. ; On the advantage of the 8087's stack ; 1990 ; unpublished course notes, Computer Science Dicision, University of California, Berkeley
+Kahan,W. ; 7094-II systems support for numerical analysis ; 1968 ; SHARE Secretarial Distribution SSD-159, Department of Computer Science, University of Toronto
+Kahaner,D.K. ; Benchmarks for 'read' programs ; 1988 ; SLAM News,November
+Kahn,R.E. ; Resource-sharing computer communication networks ; 1972 ; Proc.IEEE
+Hane,G. ; MIPS R2000 RISC Architecture ; 1986 ; Prentice Hall,Englewood Cliffs,N.J.
+Kane,G. ; PA-RISC 2.0 Architecture ; 1996 ; Prentice Hall, Upper Saddle River,N.J.
+Kane,G. J.Heinrich ; MIPS RISC Architecture ; 1992 ; Prentice Hall,Englewood Cliffs,N.J.
+Karz,R.H. D.A.Patterson G.A.Fibson ; Disk system architectures for high performance computing ; 1989 ; Proc.IEEE
+Keckler,S.W. W.J.Dally ; Processor coupling: Integrating compile time and runtime scheduling for parallelism ; 1992 ; 19th ISCA
+Keller,R.M. ; Look-ahead processors ; 1975 ; ACM Computing Surveys
+Keltcher,C.N. K.J.McGrath A.Ahmed P.Conway ; The AMD Opteron processor for multiprocessor servers ; 2003 ; IEEE Micro
+Kembel,R. ; Fibre Channel: A comprehensive introduction ; 2000 ; Internet Week,April
+Kermani,P. L.Kleinrock ; Virtual Cut-Through: A New Computer Communication Switching Technique ; 1979 ; Computer Networks 3
+Kessler<R. ; The Alpha 21264 microproecssor ; 1999 ; IRRR Micro
+Kilburn,T. D.B.G.Edwards M.J.Lanigan F.H.Summer ; One-level storage systems ; 1962 ; IRE Trans. on Electronis Computer
+Killian,E. ; MIPS R4000 technical overview-64bits/100Mhz or bust ; 1991 ; Hot Chips III Symposium Record
+Kim.M.Y. ; Synchronized disk interleaving ; 1986 ; IEEE Trans. on Computers
+Kissel,K.D. ; MIPS16:High-density for the embedded market ; 1997 ; Proc.Real Time Systems
+Kitagawa,K. S.Tagaya Y.Hagihara Y.Kanoh ; A Hardware overview of SX-6 and SX-7 supercomputer ; NEC Research & Development
+Knuth,D. ; The Art of Computer Programming,Vol.II,2ng ed ; 1981 ; Addison-Wesley,Reading,Mass
+Kogge.P.M. ; The Architecture of Pipelined Computers ; 1981 ; McGraw-Hill
+Kohn,L. S.-W.Fu ; A 1,000,000 transistor microprocessor ; 1989 ; ISSCC
+Kohn,L. N.Margulis ; Introducing the Intel i860 64-Bit Microprocessor ; 1989 ; IEEE Micro
+Kontothanassis,L. G.Hunt R.Stets N.Hardavellas M.Cierniak S.Parthasarathy W.Meira S.Dwarkadas M.Scott ; VM-based shared memory on lowlatency, remote-memory-access networks ; 1997 ; 24th ISCA
+Koren,I. ; Computer Arithmetic Algorithms ; 1989 ; Prentice Hall,Englewood Cliffs,N.J.
+Kozyrakis,C. ; Vector IRAM: A media-oriented vector processor with embeded DRAM ; 2000 ; paper presented at HotChips
+Kozyrakis,C. D.Patterson ; Vector vs. superscalar and VLIW architectures for embedded multimedia benchmarks ; 2002 ; 35th MICRO
+Kroft,D. ; Lockup-free instruction fetch/prefetch cache organization ; 8th ISCA
+# page 531
+Kroft,D. ; Restospective: Lockup-free instruction fetch/prefetch cache organization ; 25 Years of the International Symposia on Computer Architecture
+Kuck,D. P.P.Budnik S.-C.Chen D.H.Lawrie R.A.Towle R.E.Strebendt E.W.Davis Jr. J.Han P.W.Kraska Y.Muraoka ; Measurements of parallelism in ordinary FORTRAN programs ; 1974 ; Computer
+Kuhn,D.R. ; Sources of failure in the public switched telephone network ; 1997 ; IEEE Computer
+Kumar,A. ; The HP PA-800 RISC CPU ; 1997 ; IEEE Micro
+Kunimatsu,A. N.Ide T.Sato Y.Endo H.Murakami T.Kamei M.Hirano F.Ishihara H.Tago M.Oka A.Ohba T.Yutaka T.Okada M.Suzuoki ; Vector unit architecture for emotion synthesis ; 2000 ; IEEE Micro
+Kunkel,S.R. J.E.Smith ; Optimal pipelining in supercomputers ; 1986 ; 13th ISCA
+Kurose,J.F. K.W.Ross ; Computer Networking: A Top-Down Approach Featuring the Internet ; 2001 ; Addison-Wesley,Boston
+Kuskin,J. D.Ofelt M.Heinrich J.Heinlein R.Simoni K.Gharachorloo  J.Chapin D.Nakahira J.Baxter M.Horowitz A.Gupta M.Rosenblum J.L.Hennessy ; The Stanford FLASH multiprocessor ; 1994 ; 21th ISCA
+# L
+Lam,M. ; Software pipelining: An effiective scheduling technique for VLIW processors ; SIGPLAN Conf. on Programming Language Design and Implementation
 
 
 
