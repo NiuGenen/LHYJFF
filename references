@@ -350,7 +350,27 @@ Kunkel,S.R. J.E.Smith ; Optimal pipelining in supercomputers ; 1986 ; 13th ISCA
 Kurose,J.F. K.W.Ross ; Computer Networking: A Top-Down Approach Featuring the Internet ; 2001 ; Addison-Wesley,Boston
 Kuskin,J. D.Ofelt M.Heinrich J.Heinlein R.Simoni K.Gharachorloo  J.Chapin D.Nakahira J.Baxter M.Horowitz A.Gupta M.Rosenblum J.L.Hennessy ; The Stanford FLASH multiprocessor ; 1994 ; 21th ISCA
 # L
-Lam,M. ; Software pipelining: An effiective scheduling technique for VLIW processors ; SIGPLAN Conf. on Programming Language Design and Implementation
+Lam,M. ; Software pipelining: An effiective scheduling technique for VLIW processors ; 1988 ; SIGPLAN Conf. on Programming Language Design and Implementation
+Lam,M.S. R.P.Wilson ; Limits of control flow on parallelism ; 1992 ; 19th ISCA
+Lam,M.S. E.E.Rothberg M.E.Wolf ; The cache performance and optimizations of blocked algorithms ; 1991 ; 4th ASPLOS
+Lambright,D. ; Experiences in measuring the reliability of a cache-based storage system ; 2000 ; 1th WIESS 4th OSDI
+Lamport,L. ; How to make a multiprocessor computer that correctly executes multiprocess programs ; 1979 ; IEEE Trans. on Computers
+Lang,W. J.M.Patel S.Shankar ; Wimpy node clusters: What about nonwimpy workloads ; 2010 ; 6th Internationsl Workshop on Data Management on New Hardware (DaMoN)
+Laprie,J.-C ; Dependable computing and fault tolerance: Comcepts and terminology ; 1985 ; 15th Annual Int'l Symposium on Fault-Torlerant Computing 
+Larson,E.R. ; Findings of fact, conclusions of law, and order for judgment ; 1973 ; Sperry-Rand and Illinois Scientific Development
+Laudon,J. D.Lenoski ; The SGI Origin: A ccNUMA highly scalable server ; 1997 ; 24th ISCA
+Laudon,J. A.Gupta M.Horowitz ; Interleaving: A multithreading technique targeting multiprocessors and workstations ; 1994 ; 6th ASPLOS
+Lauterbach,G. T.Horel ; UltraSPARC-II: Designing third generation 64-bit performance ; 1999 ; IEEE Micro
+Lazowsks,E.D. J.Zahorjan G.S.Graham K.C.Sevcik ; Quantitative System PerformanceL Computer System Analysis Using Queueing Network Models ; 1984 ; Prentice Hall,Englewood Cliffs,N.J.
+Lebeck,A.R. D.A.Wood ; Cache profiling and the SPEC benchmarks: A case study ; 1994 ; Computer
+Lee,R. ; Precision architecture ; 1989 ; Computer
+Lww,W.V. ; Debunking the 100X GPU vs. CPU myth: An evaluation of throughput computing on CPU and GPU ; 2010 ; 37th ISCA
+Leighton,F.T. ; Introduction to Parallel Algorithms and Architectures: Arrays,Trees,Hypercubes ; 1992 ; Morgan Kaufmann,San Francisco
+Leiner,A.L. ; System specifications for the DYSEAC ; 1954 ; ACM
+# page 532
+Leiner,A.L. S.N.Alexander ; System organization of the DYSEAC ; 1954 ; IRE Trans. of Electronic Computers
+
+
 
 
 
