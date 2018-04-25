@@ -369,7 +369,27 @@ Leighton,F.T. ; Introduction to Parallel Algorithms and Architectures: Arrays,Tr
 Leiner,A.L. ; System specifications for the DYSEAC ; 1954 ; ACM
 # page 532
 Leiner,A.L. S.N.Alexander ; System organization of the DYSEAC ; 1954 ; IRE Trans. of Electronic Computers
-
+Leiserson,C.E. ; Fat trees: Universal networks for hardware-effieient supercomputing ; 1985 ; IEEE Trnas. on Computers
+Lenoski,D. J.Laudon K.Gharachorloo A.Gupta J.L.Hennessy ; The Stanford DASH multiprocessor ; 1990 ; 17th ISCA
+Lenoski,D. J.Laudon K.Gharachorloo W.-D.Weber A.Gupta J.L.Hennessy M.A.Horowitz M.Lam ; The Stanford DASH multiprocessor ; 1992 ; IEEE Computer
+Levy,H. R.Rckhouse ; Computer Programming and Architecture: The VAX ; 1989 ; Digital Press,Boston
+Li,K. ; IVY: A shared virtual memory system for parallel computing ; 1988 ; 1988 Int'l Conf. on Parallel Processing
+Li,S. K.Chen J.B.Brockman N.Jouppi ; Performance Impacts of Nonblocking Caches in Out-of-order Processors ; 2011 ; HP Labs Tech Report
+Lim,K. P.Ranganathan J.Chang C.Patel T.Mudge S.Reinhardt ; Understanding and desgining new system archetectures for emerging warehouse-computing environments ; 2008 ; 35th ISCA
+Lincoln,N.R. ; Technology and design trade offs in the creation of a modern supercomputer ; 1982 ; IEEE Trans. on Computers
+Lindholm,T. F.Yellin ; The Java Virtual Machine Specification, 2nd ed ; 1999 ; Addison-Wesley,Reading,Mass
+Lipasti,M.H. J.P.Shen ; Exceeding the dataflow limit via value prediction ; 1996 ; 29th MICRO
+Lipasti,M.H. C.B.Wilkerson J.P.Shen ; Value locality and load value prediction ; 1996 ; 7th ASPLOS
+Liptay,J.S. ; Structural aspects of the System/360 Model 85,Part II: The cache ; 1968 ; IBM Systems J.
+Lo,J. L.Barroso S.Eggers K.Charachorloo H.Levy S.Parekh ; An analysis of database workload performance on simultaneous multithreaded processors ; 1998 ; 25th ISCA
+Lo,J. S.Eggers J.Emer H.Levy R.Stamm D.Tullsen ; Converting threadlevel parallelism into instruction-level parallelism via simultaneous multithreading ; 1997 ; ACM TRnas. on Computers Systems
+Lovett,T. S.Thakkar ; The Symmetry multiprocessor systems ; 1988 ; 1988 Int'l Conf. on Parallel Processing
+Lubeck,O. J.Moore R.Mendez ; A benchmark comparison of three supercomputers: Fujitsu VP-200, Hitachi S810/20, and Cray X-MP/2 ; 1985 ; Computer
+Luk,C.-K. T.C.Mowry ; Automatic compiler-inserted prefetching for pointer-based applications ; 1999 ; IEEE Trans. on Computers
+Lunde,A. ; Empirical evaluation of some features of instruction set processor architecture ; 1977 ; Communications of the ACM
+Luszczek,P. J.J.Dongarra D.Koester R>Rabenseifner B.Lucas J.Kepner J.McCalpin D.Bailey D.Takahashi ; Introduction to the HPC challenge benchmark suite ; 2005 ; Lawrence Berkeley Nationsl Laboratory
+# M
+Maberly,N.C. ; Mastering Speed Reading ; 1966 ; New American Library
 
 
 
