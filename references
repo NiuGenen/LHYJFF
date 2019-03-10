@@ -193,7 +193,7 @@ Fisher,J.A. ; Very long instruction word architecture and ELI-512 ; 1983 ; 10th 
 Fisher,J.A. S.M.Freudenberger ; Predicting conditional branches from previous runs of a program ; 1992 ; 5th ASPLOS
 Fisher,J.A. B.R>Rau ; Journal of supercomputing ; 1993 ; January
 Fisher,J.A J.R.Ellis J.C.Ruttenberg A.Nicolau ; Parallel processing:A smart compiler and a dumb processor ; 1984 ; SIGPLAN Conf. on Compiler Construction
-Flemming,P.J. J.J.Wallace ; How to not lie wirh statistics: The correct way to summarize benchmarks results ; COmmunications of the ACM
+Flemming,P.J. J.J.Wallace ; How to not lie wirh statistics: The correct way to summarize benchmarks results ; Communications of the ACM
 Flunn,M.J. ; Very high-speed computing systems ; 1966 ; Proc. IEEE
 Forgie,J.W. ; The Lincoln TX-2 input-output system ; Proc. Western Joint Computer Conference
 Foster,C.C. E.M.Riseman ; Percolation of code to enhance parallel dispatching and execution ; 1972 ;  IEEE Trans. on Computers
@@ -394,7 +394,35 @@ Magenheimer,D.J. L.Peters K.W.Pettis D.Zuras ; Integer multipliation and divisio
 Mahlke,S.A. W.Y.Chen W.-M.Hwu B.R.Rau M.S.Schlansker ; Sentinel scheduling for VLIW and superscalar processors ; 1992 ; 5th ASPLOS 
 Mahlike,S.A. R.E.Hank J.E.McCormick D.I.August W.W.Hwu ; A Comparison of full and partial predicated execution support for ILP processors ; 1995 ; 22th ISCA 
 # page 533 
-
+Major, J.B. ; Are queuing models within the grasp of the unwashed? ; 1989 ; Int'l. Conf. on Management and Performance Evaluation of Computer Systems 
+Markstein, P.W. ; Computation of elementary functions on the IBM RISC System/6000 processor ; 1990 ; IBM J.Research and Development 
+Mathis, J.M. A.E.Mericias J.D.McCalpin R.J.Eickemeyer S.R.Kunkel ; Characterization of the multithreading(SMT) efficiency in Power5 ; 2005 ; IBM J.Research and Development 
+McCalpin J. ; STREAM: Sustainable Memory Bandwidth in High Performance Computers ; 2005 ; cs.virgina.edu/stream
+McCalpin J. D.Bailey D.Takahashi ; Introduction to the HPC Challenge Benchmark Suite ; 2005 ; university of California Berkeley 
+McCormick J. A.Knies ; A Brief analysis of the SPEC CPU2000 benchmarks on the Intel Itanium 2 processor ; 2002 ; Hot Chips 14
+McFarling S. ; Prorgram optimizatin for instruction caches ; 1989 ; 3rd ASPLOS 
+McFarling S. ; Combining Branch Predictors ; 1993 ; Digital Western Research Laboratory 
+McFarling S. J.Hennessy ; Reducing the cost of branches ; 1986 ; 13th ISCA 
+McGhan H. M.O'Connor ; PicoJava: A direct exetution engine for Java bytecode ; 1998 ; Computer 31:10
+McKeeman W.M. ; Language directed computer design ; 1967 ; AFIPS Fall Computer Conf.
+McMahon F.M. ; The livermore FORTRAN Kernels: A Computer Test of Nuerical Performance Range ; 1986 ; University of California 
+McNairy,C. D.Soltis ; Itanium 2 processor microarchitecture ; 2003 ; IEEE Micro 
+Mead C. L.Conway ; Introduction to VLSI Systems ; 1980 ; Addison-Wesley,Reading,Mass 
+Mellor-Crummey,J.M. M.L.Scott ; Algorithms for scalable synchronization on shared-memory multiprocessors ; 1991 ; ACM Trans. on Computer Systems 
+Menabrea,L.F. ; Sketch of the analytical engine invented by Charles Babbage ; 1842 ; Bibliotheque Universelle de Geneve 
+Menon,A. J.Renato Santos Y.Turner G.Janakiraman W.Zwaenepoel ; Diagnosing performance overheads in the xen virtual machine environment ; 2005 ; Int'l. Conf. on Virtual Execution Environments 
+Merlin,P.M. P.J.Schweitzer ; Deadlock avoidance in store-and-forward networks. Part I. Store-and-forward deadlock ; 1980 ; IEEE Trans. on Communications 
+Metcalfe,R.M. ; Computer/network interface design: Lessons from Ａｒｐａｎｅｔ And Ethernet ; 1993 ; IEEE J. on Selected Areas in Communications 
+Metcalfe,R.M. D.R.Boggs ; Ethernet: Distributed packet switching for local computer networks ; 1976 ; Communications of the ACM 
+Metropolis,N. J.Howlett G.C.Rota ; A History of Computing in the Twentieth Century ; 1980 ; Academic Press 
+Meyer,R.A. L.H.Seawright ; A virtual machine time sharing system ; 1970 ; IBM Systems 
+Meyers,G.J. ; The evaluation of expressions in a storage-to-storage architecture ; 1978 ; Computer Architecture News 
+Meyers,G.J. ; Advances in Computer Architecture 2nd ed ; 1982 ; Wiley New York 
+Micron ; Calculating Memory System Power for DDR2 ; 2004 ; micron.com 
+Micron ; The Micron System-Power Calculator ; 2006 ; micnon.com 
+MIPS ; MIPS16 Application Specific Extension Product Description ; 1997 ; sgi.com 
+Miranker,G.S. J.Rubenstein J.Sanguinetti ; Squeezing a Cray-class supercomputer into a single-user package ; 1988 ; IEEE COMPCON 
+# page 534
 
 
 
