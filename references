@@ -369,6 +369,7 @@ Leighton,F.T. ; Introduction to Parallel Algorithms and Architectures: Arrays,Tr
 Leiner,A.L. ; System specifications for the DYSEAC ; 1954 ; ACM
 # page 532
 Leiner,A.L. S.N.Alexander ; System organization of the DYSEAC ; 1954 ; IRE Trans. of Electronic Computers
+<<<<<<< HEAD
 Leiserson,C.E. ; Fat trees: Universal networkd for hardware-efficient supercomputing ; 1985 ; IEEE Trans. on Computers 
 Lenoski,D. J.Laudon K.Gharachorloo A.Gupta J.L.Hennessy ; The Stanford DASH multiprocessor ; 1990 ; 17th ISCA 
 Lenoski,D. J.Laudon K.Gharachorloo W.-D.Weber A.Gupta J.L.Hennessy M.A.Horowitz M.Lam ; The Stanford DASH multiprocessor ; 1992 ; IEEE Computer 
@@ -423,25 +424,6 @@ Micron ; The Micron System-Power Calculator ; 2006 ; micnon.com
 MIPS ; MIPS16 Application Specific Extension Product Description ; 1997 ; sgi.com 
 Miranker,G.S. J.Rubenstein J.Sanguinetti ; Squeezing a Cray-class supercomputer into a single-user package ; 1988 ; IEEE COMPCON 
 # page 534
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
